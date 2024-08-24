@@ -1,15 +1,15 @@
-# Troubleshooting Common SQL Errors with BigQuery || [GSP408](https://www.cloudskillsboost.google/focuses/3642?parent=catalog) ||
+# BigQuery Soccer Data Analytical Insight || [GSP850](https://www.cloudskillsboost.google/focuses/58632?parent=catalog) ||
 
-## Solution [here](https://youtu.be/MzuMqt11Ykc)
+## Solution [here](https://youtu.be/HCocRX2g6Lo)
 
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Troubleshooting%20Common%20SQL%20Errors%20with%20BigQuery/gsp408.sh
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/BigQuery%20Soccer%20Data%20Analytical%20Insight/gsp850.sh
 
-sudo chmod +x gsp408.sh
+sudo chmod +x gsp850.sh
 
-./gsp408.sh
+./gsp850.sh
 ```
 
 ### Congratulations 🎉 for completing the Lab !
