@@ -1,18 +1,18 @@
-# Cloud Spanner - Database Fundamentals || [GSP1048](https://www.cloudskillsboost.google/focuses/54352?parent=catalog) ||
+# [Creating Cloud SQL Databases](https://www.cloudskillsboost.google/course_templates/145/labs/387208)
 
-## Solution [here](https://youtu.be/9nc16F3Bt6A)
+## Solution [here](https://youtu.be/5Q9nRiEO45I)
 
 ### Run the following Commands in CloudShell
 
 ```
-export REGION=
+export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Spanner%20-%20Database%20Fundamentals/gsp1048.sh
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Creating%20Cloud%20SQL%20Databases/shell.sh
 
-sudo chmod +x gsp1048.sh
+sudo chmod +x shell.sh
 
-./gsp1048.sh
+./shell.sh
 ```
 
 ### Congratulations 🎉 for completing the Lab !

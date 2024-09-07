@@ -1,6 +1,6 @@
-# Cloud Spanner - Database Fundamentals || [GSP1048](https://www.cloudskillsboost.google/focuses/54352?parent=catalog) ||
+# Cloud Spanner: Qwik Start || [GSP102](https://www.cloudskillsboost.google/focuses/1774?parent=catalog) ||
 
-## Solution [here](https://youtu.be/9nc16F3Bt6A)
+## Solution [here](https://youtu.be/INJoqAqXmqY)
 
 ### Run the following Commands in CloudShell
 
@@ -8,11 +8,11 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Spanner%20-%20Database%20Fundamentals/gsp1048.sh
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Spanner%20Qwik%20Start/gsp102.sh
 
-sudo chmod +x gsp1048.sh
+sudo chmod +x gsp102.sh
 
-./gsp1048.sh
+./gsp102.sh
 ```
 
 ### Congratulations 🎉 for completing the Lab !

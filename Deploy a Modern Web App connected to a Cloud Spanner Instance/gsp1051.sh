@@ -26,6 +26,7 @@ RESET=`tput sgr0`
 echo "${BG_MAGENTA}${BOLD}Starting Execution${RESET}"
 
 gcloud services enable spanner.googleapis.com
+gcloud services enable artifactregistry.googleapis.com
 gcloud services enable containerregistry.googleapis.com
 gcloud services enable run.googleapis.com
 
